@@ -2,4 +2,4 @@
 
 ## Plain Dosa
 * Dosa Batter
-* oil
+* light oil
