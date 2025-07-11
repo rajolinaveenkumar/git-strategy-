@@ -11,4 +11,4 @@
 
 ## Egg dosa
 * Dosa Batter
-* single egg dosa
+* single egg dosa with karam
