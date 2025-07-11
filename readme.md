@@ -8,3 +8,7 @@
 * Dosa Batter
 * added karam with oil
 * red chetny, if required
+
+## Egg dosa
+* Dosa Batter
+
