@@ -12,3 +12,5 @@
 ## Egg dosa
 * Dosa Batter
 * single egg dosa with karam
+* red chetny, if required
+
