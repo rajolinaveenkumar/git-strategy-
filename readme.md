@@ -14,3 +14,8 @@
 * single or double egg dosa 
 
 ## Panner Dosa
+* Dosa Batter
+* oil
+* ghee
+* panner
+* karam
