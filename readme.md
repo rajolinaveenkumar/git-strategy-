@@ -21,3 +21,5 @@
 * karam
 * masala powder
 * capsicum
+* onion
+* tomota
