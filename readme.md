@@ -19,3 +19,4 @@
 * ghee
 * panner
 * karam
+* masala powder
