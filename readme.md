@@ -20,3 +20,4 @@
 * panner
 * karam
 * masala powder
+* capsicum
